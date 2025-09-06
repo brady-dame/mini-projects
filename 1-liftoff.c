@@ -1,6 +1,7 @@
 /**
  * Author: Brady Dame
  * Date: 2025-08-28
+ * Email: bdmae2@huskers.unl.edu
  * 
  * This program displays some ASCII art of a rocket taking off
  */
